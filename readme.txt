@@ -1,0 +1,2 @@
+1. Iin this project, I used SpringBoot with interactive command line to input data (Encoded String and encoded type)
+2. In optional 1.0 "Write the corresponding encode function" => Here I assumed encoded function means actually decoding the Octal String(or hexadecimal,Base32 ) to decimal and do byte array conversion
